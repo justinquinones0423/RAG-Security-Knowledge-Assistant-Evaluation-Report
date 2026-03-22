@@ -1,0 +1,38 @@
+Internal Spearphishing
+
+After they already have access to accounts or systems within the environment, adversaries may use internal spearphishing to gain access to additional information or compromise other users within the same organization. Internal spearphishing is multi-staged campaign where a legitimate account is initially compromised either by controlling the user's device or by compromising the account credentials of the user. Adversaries may then attempt to take advantage of the trusted internal account to increase the likelihood of tricking more victims into falling for phish attempts, often incorporating Impersonation.[1]
+
+For example, adversaries may leverage Spearphishing Attachment or Spearphishing Link as part of internal spearphishing to deliver a payload or redirect to an external site to capture credentials through Input Capture on sites that mimic login interfaces.
+
+Adversaries may also leverage internal chat apps, such as Microsoft Teams, to spread malicious content or engage users in attempts to capture sensitive information and/or credentials.[2]
+
+Procedure Examples
+ID 	Name 	            Description
+G0047 	Gamaredon Group 	Gamaredon Group has used an Outlook VBA module on infected systems to send phishing emails with malicious attachments to other employees within the organization.[3]
+
+
+G1001 	HEXANE 	   HEXANE has conducted internal spearphishing attacks against executives, HR, and IT personnel to gain information and access.[4]
+
+
+G0094 	Kimsuky 	Kimsuky has sent internal spearphishing emails for lateral movement after stealing victim information.[5]
+
+
+G0065 	Leviathan 	Leviathan has conducted internal spearphishing within the victim's environment for lateral movement.[6]
+
+
+C0022 	Operation Dream Job 	During Operation Dream Job, Lazarus Group conducted internal spearphishing from within a compromised organization.[7]
+
+
+
+Remote Services: SSH
+
+Adversaries may use Valid Accounts to log into remote machines using Secure Shell (SSH). The adversary may then perform actions as the logged-on user.
+
+SSH is a protocol that allows authorized users to open remote shells on other computers. Many Linux and macOS versions come with SSH installed by default, although typically disabled until the user enables it. On ESXi, SSH can be enabled either directly on the host (e.g., via vim-cmd hostsvc/enable_ssh) or via vCenter.[1][2][3] The SSH server can be configured to use standard password authentication or public-private keypairs in lieu of or in addition to a password. In this authentication scenario, the user’s public key must be in a special file on the computer running the server that lists which keypairs are allowed to login as that user (i.e., SSH Authorized Keys).
+
+
+Remote Service Session Hijacking: RDP Hijacking
+
+Adversaries may hijack a legitimate user’s remote desktop session to move laterally within an environment. Remote desktop is a common feature in operating systems. It allows a user to log into an interactive session with a system desktop graphical user interface on a remote system. Microsoft refers to its implementation of the Remote Desktop Protocol (RDP) as Remote Desktop Services (RDS).[1]
+
+Adversaries may perform RDP session hijacking which involves stealing a legitimate user's remote session. Typically, a user is notified when someone else is trying to steal their session. With System permissions and using Terminal Services Console, c:\windows\system32\tscon.exe [session number to be stolen], an adversary can hijack a session without the need for credentials or prompts to the user.[2] This can be done remotely or locally and with active or disconnected sessions.[3] It can also lead to Remote System Discovery and Privilege Escalation by stealing a Domain Admin or higher privileged account session. All of this can be done by using native Windows commands, but it has also been added as a feature in red teaming tools.[4]

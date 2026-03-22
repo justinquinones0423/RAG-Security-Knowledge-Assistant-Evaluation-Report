@@ -1,1 +1,45 @@
+Description
 
+The organization's cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored
+
+Cyber supply chain risk management processes are identified, established, managed, monitored, and improved by organizational stakeholders
+
+The organization’s cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored. The GOVERN Function provides outcomes to inform what an organization may do to achieve and prioritize the outcomes of the other five Functions in the context of its mission and stakeholder expectations. Governance activities are critical for incorporating cybersecurity into an organization’s broader enterprise risk management (ERM) strategy. GOVERN addresses an understanding of organizational context; the
+establishment of cybersecurity strategy and cybersecurity supply chain risk management; roles, responsibilities, and authorities; policy; and the oversight of cybersecurity strategy.
+
+The GOVERN Function supports organizational risk communication with executives. Executives’ discussions involve strategy, particularly how cybersecurity-related uncertainties might affect the achievement of organizational objectives. These governance discussions support dialogue and agreement about risk management strategies (including cybersecurity supply chain risk); roles, responsibilities, and authorities; policies; and oversight. As executives establish cybersecurity priorities and objectives based on those needs, they communicate expectations about risk appetite, accountability, and resources. Executives are also responsible for integrating cybersecurity risk management with ERM programs and lower-level risk management programs (see Sec. 5.2). The communications reflected in the top half of Fig. 5 can include considerations for ERM and the lower-level programs and, thus, inform managers and practitioners.
+
+GOVERN is in the center of the wheel because it informs how an organization will implement the other five Function
+
+GOVERN (GV): The organization’s cybersecurity risk management strategy, expectations, and
+policy are established, communicated, and monitored
+• Organizational Context (GV.OC): The circumstances — mission, stakeholder expectations,
+dependencies, and legal, regulatory, and contractual requirements — surrounding the
+organization’s cybersecurity risk management decisions are understood
+  o GV.OC-01: The organizational mission is understood and informs cybersecurity risk
+management
+  o GV.OC-02: Internal and external stakeholders are understood, and their needs and
+expectations regarding cybersecurity risk management are understood and considered
+  o GV.OC-03: Legal, regulatory, and contractual requirements regarding cybersecurity —
+including privacy and civil liberties obligations — are understood and managed
+  o GV.OC-04: Critical objectives, capabilities, and services that external stakeholders
+depend on or expect from the organization are understood and communicated
+  o GV.OC-05: Outcomes, capabilities, and services that the organization depends on are
+understood and communicated
+• Risk Management Strategy (GV.RM): The organization’s priorities, constraints, risk
+tolerance and appetite statements, and assumptions are established, communicated, and
+used to support operational risk decisions
+  o GV.RM-01: Risk management objectives are established and agreed to by organizational
+stakeholders
+  o GV.RM-02: Risk appetite and risk tolerance statements are established, communicated,
+and maintained
+  o GV.RM-03: Cybersecurity risk management activities and outcomes are included in
+enterprise risk management processes
+  o GV.RM-04: Strategic direction that describes appropriate risk response options is
+established and communicated
+  o GV.RM-05: Lines of communication across the organization are established for
+cybersecurity risks, including risks from suppliers and other third parties
+  o GV.RM-06: A standardized method for calculating, documenting, categorizing, and
+prioritizing cybersecurity risks is established and communicated
+  o GV.RM-07: Strategic opportunities (i.e., positive risks) are characterized and are
+included in organizational cybersecurity risk discussions

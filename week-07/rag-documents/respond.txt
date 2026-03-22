@@ -1,0 +1,63 @@
+The goal of the Respond function is to develop and implement appropriate activities to take action regarding a detected cybersecurity incident.
+
+The Respond Function supports the ability to contain the impact of a potential cybersecurity incident. Examples of outcome Categories within this Function include: Response Planning; Communications; Analysis; Mitigation; and Improvements.
+Framework Categories
+RS.AN: Analysis
+
+Analysis is conducted to ensure effective response and support recovery activities.
+RS.CO: Communications
+
+Response activities are coordinated with internal and external stakeholders (e.g. external support from law enforcement agencies).
+RS.IM: Improvements
+
+Organizational response activities are improved by incorporating lessons learned from current and previous detection/response activities.
+RS.MI: Mitigation
+
+Activities are performed to prevent expansion of an event, mitigate its effects, and resolve the incident.
+RS.RP: Response Planning
+
+Response processes and procedures are executed and maintained, to ensure response to detected cybersecurity incidents.
+
+Actions regarding a detected cybersecurity incident are taken. RESPOND supports the ability to contain the effects of cybersecurity incidents. Outcomes within this Function cover incident management, analysis, mitigation, reporting, and communication.
+Incident Management RS.MA
+Incident Analysis RS.AN
+Incident Response Reporting and Communication RS.CO
+Incident Mitigation 
+
+
+RESPOND (RS): Actions regarding a detected cybersecurity incident are taken
+• Incident Management (RS.MA): Responses to detected cybersecurity incidents are
+managed
+  o RS.MA-01: The incident response plan is executed in coordination with relevant third
+parties once an incident is declared
+  o RS.MA-02: Incident reports are triaged and validated
+  o RS.MA-03: Incidents are categorized and prioritized
+  o RS.MA-04: Incidents are escalated or elevated as needed
+  o RS.MA-05: The criteria for initiating incident recovery are applied
+• Incident Analysis (RS.AN): Investigations are conducted to ensure effective response and
+support forensics and recovery activities
+  o RS.AN-03: Analysis is performed to establish what has taken place during an incident
+and the root cause of the incident
+  o RS.AN-06: Actions performed during an investigation are recorded, and the records’
+integrity and provenance are preserved
+  o RS.AN-07: Incident data and metadata are collected, and their integrity and provenance
+are preserved
+  o RS.AN-08: An incident’s magnitude is estimated and validated
+• Incident Response Reporting and Communication (RS.CO): Response activities are
+coordinated with internal and external stakeholders as required by laws, regulations, or
+policies
+  o RS.CO-02: Internal and external stakeholders are notified of incidents
+  o RS.CO-03: Information is shared with designated internal and external stakeholders
+• Incident Mitigation (RS.MI): Activities are performed to prevent expansion of an event and
+mitigate its effects
+  o RS.MI-01: Incidents are contained
+  o RS.MI-02: Incidents are eradicated
+
+
+Response Planning (RS.RP): Response processes and procedures are executed and maintained, to ensure timely response to detected cybersecurity incidents.
+
+Communications (RS.CO): Response activities are coordinated with internal and external stakeholders, as appropriate, to include external support from law enforcement agencies.
+
+Analysis (RS.AN): Analysis is conducted to ensure adequate response and support recovery activities.
+
+Mitigation (RS.MI): Activities are performed to prevent expansion of an event, mitigate its effects, and resolve the incident.
