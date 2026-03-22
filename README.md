@@ -35,4 +35,15 @@ Groq               → Conversational Retrieval QA Chain
 ## Live Chatbot
 https://cloud.flowiseai.com/chatbot/7d827648-622a-474d-9455-541bb6310896
 
-See report.md for more.
+## Test Questions Used
+1. What are common techniques for credential access according to MITRE?
+2. How does phishing relate to initial access in the ATT&CK framework?
+3. What is lateral movement and what techniques do attackers use?
+4. What does the NIST framework recommend for the Govern function?
+5. What is internal spearphishing?
+
+## Files
+- `week-07-report.md` — Full evaluation report with test results and reflection
+- `rag-documents/` — Knowledge base text files uploaded to the chatbot
+
+See `report.md` for more.
